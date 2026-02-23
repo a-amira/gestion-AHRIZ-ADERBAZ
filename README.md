@@ -1,4 +1,3 @@
-# gestion-AHRIZ-ADERBAZ
 import java.util.Scanner;
 import java.io.*;
 
